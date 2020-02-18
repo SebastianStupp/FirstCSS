@@ -1,0 +1,24 @@
+{
+  "name": "firstcss",
+  "version": "1.0.0",
+  "description": "Erste CSS try's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SebastianStupp/FirstCSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SebastianStupp/FirstCSS/issues"
+  },
+  "homepage": "https://github.com/SebastianStupp/FirstCSS#readme",
+  "dependencies": {
+    "csslint": "^1.0.5",
+    "htmlhint": "^0.11.0",
+    "prettier": "^1.19.1"
+  }
+}
